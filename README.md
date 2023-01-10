@@ -1,2 +1,2 @@
 # odin-recipes
-This project was practice for using <a> anchor tags, <img> image tags, <ul> and <ol>
+This project was practice for using anchor tags, img tags, ul and ol
